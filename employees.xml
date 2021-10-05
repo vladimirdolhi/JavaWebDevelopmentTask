@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<companyInfo>
+    <dataName>Employees list</dataName>
+    <employees>
+        <dev>
+            <web>
+                <employee>
+                    <name>Ivan</name>
+                    <sname>Alexeev</sname>
+                    <position>Junior</position>
+                    <salary>500</salary>
+                </employee>
+                <employee>
+                    <name>Anastasia</name>
+                    <sname>Petrova</sname>
+                    <position>Middle</position>
+                    <salary>1200</salary>
+                </employee>
+            </web>
+            <mobile>
+                <employee>
+                    <name>Andrei</name>
+                    <sname>Sokolov</sname>
+                    <position>Middle</position>
+                    <salary>1100</salary>
+                </employee>
+                <employee>
+                    <name>Pavel</name>
+                    <sname>Zakharov</sname>
+                    <position>Middle</position>
+                    <salary>1100</salary>
+                </employee>
+            </mobile>
+        </dev>
+        <qa>
+            <employee>
+                <name>Daniil</name>
+                <sname>Yakovlev</sname>
+                <position>Junior</position>
+                <salary>400</salary>
+            </employee>
+            <employee>
+                <name>Anna</name>
+                <sname>Zayceva</sname>
+                <position>Middle</position>
+                <salary>1200</salary>
+            </employee>
+        </qa>
+        <ux>
+            <employee>
+                <name>Alexandra</name>
+                <sname>Lebedeva</sname>
+                <position>Senior</position>
+                <salary>2000</salary>
+            </employee>
+        </ux>
+        <pm>
+            <employee>
+                <name>Alexey</name>
+                <sname>Makarov</sname>
+                <position>Middle</position>
+                <salary>1500</salary>
+            </employee>
+        </pm>
+        <tl>
+            <employee>
+                <name>Gregory</name>
+                <sname>Borisov</sname>
+                <position>Senior</position>
+                <salary>2500</salary>
+            </employee>
+        </tl>
+    </employees>
+
+</companyInfo>

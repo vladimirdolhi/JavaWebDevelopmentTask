@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teamInfo>
+	<team>
+		<struct>
+			<webDev>2</webDev>
+			<mobileDev>2</mobileDev>
+			<qa>2</qa>
+			<ux>1</ux>
+			<pm>1</pm>
+			<tl>1</tl>
+		</struct>
+		<totalPrice>11500</totalPrice>
+	</team>
+</teamInfo>
